@@ -1,0 +1,19 @@
+{
+  "name": "halloween-bot",
+  "version": "1.0.0",
+  "description": "Bot de Discord para recolectar dulces de Halloween",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": ["discord", "bot", "halloween"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.16.3"
+  },
+  "engines": {
+    "node": "18.x",
+    "npm": ">=9.0.0"
+  }
+}
